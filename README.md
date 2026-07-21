@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0014-longest-common-prefix) |
 ## String
 |  |
@@ -24,5 +25,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0011-container-with-most-water) |
 | [0344-reverse-string](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0344-reverse-string) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
