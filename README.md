@@ -50,8 +50,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3536-maximum-product-of-two-digits](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
 | ------- |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3536-maximum-product-of-two-digits](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
