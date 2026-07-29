@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0344-reverse-string) |
 ## Trie
