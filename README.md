@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0455-assign-cookies) |
 | [0861-score-after-flipping-matrix](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [0877-stone-game](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -48,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0455-assign-cookies) |
 | [0861-score-after-flipping-matrix](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Bit Manipulation
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0242-valid-anagram) |
+| [0455-assign-cookies](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -123,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
