@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0059-spiral-matrix-ii](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0169-majority-element) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0066-plus-one) |
 | [0877-stone-game](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
