@@ -4,12 +4,11 @@ public:
         int sum=0,product=1,k=n;
 
         while(k>0){
-            int lastDigit=0;
-            lastDigit=k%10;
-            k=k/10;
 
-            sum=sum+lastDigit;
-            product=product*lastDigit;
+            sum=sum+(k%10);
+            product=product*(k%10);
+            k=k/10;
+            
         }
         if(n%(sum+product)==0)    return true;
         
