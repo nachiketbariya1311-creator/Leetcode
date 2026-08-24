@@ -1,25 +1,23 @@
 class Solution {
 public:
-    bool isPerfectSquare(int n){
-        int root=sqrt(n);
-        if(root*root==n)   return true;
-        else return false;
-    }
     bool judgeSquareSum(int c) {
-        int x=0,y=c;
-        while(x<=y){
-            if(isPerfectSquare(x) && isPerfectSquare(y)){
+        long long x = 0;
+        long long y = sqrt(c);
+
+        while (x <= y) {
+            long long sum = x * x + y * y;
+
+            if (sum == c) {
                 return true;
             }
-            else if(!isPerfectSquare(y)){
-                y=int(sqrt(y))*int(sqrt(y));
-                x=c-y;
+            else if (sum < c) {
+                x++;
             }
-            else{
-                x=int(sqrt(x)+1)*int(sqrt(x)+1);
-                y=c-x;
+            else {
+                y--;
             }
         }
+
         return false;
     }
 };
