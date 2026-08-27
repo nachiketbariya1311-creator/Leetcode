@@ -3,7 +3,7 @@ public:
     bool check(vector<int>& weights, int days,int mid){
         int count=1;
         int m=mid;
-        for(int i=0;i<weights.size();i++){
+       for(int i=0;i<weights.size();i++){
             if(m>=weights[i])      m-=weights[i];
             else{
                 count++;
@@ -15,26 +15,48 @@ public:
         return true;
     }
     int shipWithinDays(vector<int>& weights, int days) {
-        int lo=weights[0];
-        int hi=weights[0];
+    //     int lo=weights[0];
+    //     int hi=weights[0];
 
-        int minCapacity=hi;
+    //     int minCapacity=hi;
 
-        for(int i=0;i<weights.size();i++){
-            if(lo<weights[i])      lo=weights[i];
-            hi+=weights[i];
-        }
+    //     for(int i=0;i<weights.size();i++){
+    //         if(lo<weights[i])      lo=weights[i];
+    //         hi+=weights[i];
+    //     }
 
-        while(lo<=hi){
-           int mid = lo + (hi-lo)/2;
-            if(check(weights,days,mid)){
-                minCapacity=mid;
-                hi = mid - 1;
-            }
-            else lo = mid+1;
-        }
+    //     while(lo<=hi){
+    //        int mid = lo + (hi-lo)/2;
+    //         if(check(weights,days,mid)){
+    //             minCapacity=mid;
+    //             hi = mid - 1;
+    //         }
+    //         else lo = mid+1;
+    //     }
 
-        return minCapacity;
+    //     return minCapacity;
         
+        int lo = 0;
+        int hi = 0;
+
+        for(int i = 0; i < weights.size(); i++) {
+            if(lo < weights[i])
+                lo = weights[i];
+
+            hi += weights[i];
+        }
+
+        while(lo < hi) {
+            int mid = lo + (hi - lo) / 2;
+
+            if(check(weights, days, mid)) {
+                hi = mid;
+            }
+            else {
+                lo = mid + 1;
+            }
+        }
+
+        return lo;
     }
 };
