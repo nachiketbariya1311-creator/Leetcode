@@ -2,8 +2,7 @@ class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
         int idx=-1;
-        int n=nums.size();
-        for(int i=n-2;i>=0;i--){
+        for(int i=nums.size()-2;i>=0;i--){
             if(nums[i]<nums[i+1]){
                 idx=i;
                 break;
@@ -16,7 +15,7 @@ public:
         }
         reverse(nums.begin()+idx+1,nums.end());
         int j=-1;
-        for(int i=idx+1;i<n;i++){
+        for(int i=idx+1;i<nums.size();i++){
             if(nums[idx]<nums[i]){
                 j=i;
                 break;
