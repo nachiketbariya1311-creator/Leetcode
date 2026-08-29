@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0861-score-after-flipping-matrix](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0861-score-after-flipping-matrix) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0069-sqrtx) |
