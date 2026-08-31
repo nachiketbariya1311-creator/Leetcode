@@ -27,6 +27,11 @@ public:
                 ans=mid;
             }
             else lo=mid+1;
+            // if(check(mid,time,totalTrips)==true){
+            //     hi=mid-1;
+            //     ans=mid;
+            // }
+            // else lo=mid+1;
         }
     return ans;
     }
