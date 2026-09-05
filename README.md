@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0162-find-peak-element](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0217-contains-duplicate) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0633-sum-of-square-numbers](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0633-sum-of-square-numbers) |
