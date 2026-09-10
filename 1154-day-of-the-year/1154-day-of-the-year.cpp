@@ -7,12 +7,13 @@ public:
         if(m==1) return ans;
         for(int i=1;i<m;i++){
             if(i==2) {
-                if(y%100==0){
-                    if(y%400==0) ans+=29;
-                    else ans+=28;
-                } 
-                else if(y%4==0) ans+=29;
-                else  ans+=28;
+                ans += (y%400 == 0 || (y%4 == 0 && y%100 != 0)) ? 29 : 28;
+                // if(y%100==0){
+                //     if(y%400==0) ans+=29;
+                //     else ans+=28;
+                // } 
+                // else if(y%4==0) ans+=29;
+                // else  ans+=28;
             }
             else if(i==4||i==6||i==9|| i==11) ans+=30;
             else ans+=31;
