@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2187-minimum-time-to-complete-trips](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/2469-convert-the-temperature) |
