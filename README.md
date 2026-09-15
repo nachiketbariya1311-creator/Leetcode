@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0231-power-of-two) |
 | [0861-score-after-flipping-matrix](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 ## Matrix
@@ -262,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1952-three-divisors) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
