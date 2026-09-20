@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0412-fizz-buzz) |
 | [1154-day-of-the-year](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1154-day-of-the-year) |
+| [3498-reverse-degree-of-a-string](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1920-build-array-from-permutation](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [3498-reverse-degree-of-a-string](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Enumeration
 |  |
 | ------- |
