@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0504-base-7) |
 | [1154-day-of-the-year](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1154-day-of-the-year) |
 | [3498-reverse-degree-of-a-string](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0504-base-7) |
 | [0633-sum-of-square-numbers](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0877-stone-game) |
 | [1154-day-of-the-year](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1154-day-of-the-year) |
