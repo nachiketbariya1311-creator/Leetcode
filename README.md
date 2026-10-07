@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0504-base-7) |
 | [1154-day-of-the-year](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1154-day-of-the-year) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -281,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0090-subsets-ii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
