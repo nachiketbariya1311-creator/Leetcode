@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0231-power-of-two) |
+| [0779-k-th-symbol-in-grammar](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0861-score-after-flipping-matrix](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 ## Matrix
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0504-base-7) |
 | [0633-sum-of-square-numbers](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0779-k-th-symbol-in-grammar](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0877-stone-game) |
 | [1154-day-of-the-year](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1154-day-of-the-year) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0326-power-of-three) |
+| [0779-k-th-symbol-in-grammar](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Newton's Method
 |  |
 | ------- |
