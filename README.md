@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2187-minimum-time-to-complete-trips](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1952-three-divisors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Quicksort
 |  |
