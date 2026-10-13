@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0412-fizz-buzz) |
