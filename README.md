@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3536-maximum-product-of-two-digits](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
