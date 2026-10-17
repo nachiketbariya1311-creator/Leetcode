@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2187-minimum-time-to-complete-trips](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2187-minimum-time-to-complete-trips](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/2187-minimum-time-to-complete-trips) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
