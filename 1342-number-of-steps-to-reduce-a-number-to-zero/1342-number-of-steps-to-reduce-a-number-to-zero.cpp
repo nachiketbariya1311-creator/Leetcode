@@ -2,10 +2,9 @@ class Solution {
 public:
     int numberOfSteps(int num) {
         int ans=0;
-        int n=num;
-        while(n>0){
-            if(n%2!=0) n=n-1;
-            else n=n/2;
+        while(num>0){
+            if(num%2!=0) num=num-1;
+            else num=num/2;
             ans++;
         }
         
