@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0231-power-of-two) |
 | [0779-k-th-symbol-in-grammar](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0861-score-after-flipping-matrix](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0861-score-after-flipping-matrix) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
