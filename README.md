@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0877-stone-game) |
+| [0912-sort-an-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0455-assign-cookies) |
+| [0912-sort-an-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Binary Search
 |  |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Interactive
 |  |
@@ -322,4 +327,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0022-generate-parentheses) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
