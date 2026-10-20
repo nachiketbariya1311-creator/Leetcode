@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0861-score-after-flipping-matrix](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0861-score-after-flipping-matrix) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0561-array-partition) |
 | [0861-score-after-flipping-matrix](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Bit Manipulation
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Interactive
