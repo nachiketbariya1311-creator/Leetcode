@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0326-power-of-three) |
