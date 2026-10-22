@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0704-binary-search) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0861-score-after-flipping-matrix](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0441-arranging-coins) |
@@ -377,4 +381,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
