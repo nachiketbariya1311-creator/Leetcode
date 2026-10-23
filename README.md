@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0342-power-of-four) |
 | [0779-k-th-symbol-in-grammar](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0861-score-after-flipping-matrix](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0861-score-after-flipping-matrix) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0441-arranging-coins) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0342-power-of-four) |
 | [0779-k-th-symbol-in-grammar](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Newton's Method
 |  |
