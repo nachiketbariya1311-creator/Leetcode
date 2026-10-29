@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0504-base-7) |
 | [1154-day-of-the-year](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1154-day-of-the-year) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3498-reverse-degree-of-a-string](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3903-smallest-stable-index-i](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/nachiketbariya1311-creator/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Ternary Search
